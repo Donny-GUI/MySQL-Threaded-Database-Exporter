@@ -16,6 +16,12 @@ db.export_database_to_csv()
 
 ```
 
+
+# Features
+- hey your not writing sql!
+- Can export to CSV and JSON
+- Converts all types to json or csv usable types and visa-versa
+
 # TODO
 
 - xlsx export
